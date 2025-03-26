@@ -1,6 +1,6 @@
 # CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning
 
-Source code for [CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning]()
+Source code for [CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning](https://arxiv.org/pdf/2503.19900)
 
 ![Model Architecture](figs/teaser.jpeg)
 
