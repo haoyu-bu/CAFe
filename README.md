@@ -78,7 +78,7 @@ If you find it useful for your research and applications, please cite related pa
 @article{yu2025cafe,
   title={CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning},
   author={Yu, Hao and Zhao, Zhuokai and Yan, Shen and Korycki, Lukasz and Wang, Jianyu and He, Baosheng and Liu, Jiayi and Zhang, Lizhu and Fan, Xiangjun and Yu, Hanchao},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2503.19900},
   year={2025}
 }
 ```
